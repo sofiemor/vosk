@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/vosk/static/js/main.44d72f08.js",
+    "static/media/green.png": "/vosk/static/media/green.a9334e11c27cf6f5e186.png",
+    "static/media/orange.png": "/vosk/static/media/orange.c25a56a7e504ee19f1fc.png",
+    "static/media/blue.png": "/vosk/static/media/blue.a52ca0b2543a1f6041e1.png",
+    "static/media/pink.png": "/vosk/static/media/pink.4b239916c2647349f6b0.png",
+    "static/media/red.png": "/vosk/static/media/red.ca917750d8f566b90e0f.png",
+    "static/media/black.png": "/vosk/static/media/black.915e848b9eb8928fd45b.png",
+    "index.html": "/vosk/index.html",
+    "main.44d72f08.js.map": "/vosk/static/js/main.44d72f08.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.44d72f08.js"
+  ]
+}
